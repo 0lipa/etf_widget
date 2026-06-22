@@ -1,0 +1,16 @@
+[
+  {
+    "name": "두산로보틱스",
+    "ticker": "454910",
+    "market": "KRX",
+    "buy_price": 111500,
+    "quantity": 2
+  },
+  {
+    "name": "KODEX 미국AI전력핵심인프라",
+    "ticker": "487230",
+    "market": "KRX",
+    "buy_price": 25850,
+    "quantity": 8
+  }
+]
